@@ -1,4 +1,4 @@
-# Travis CI LDAP Tets 
+# Travis CI LDAP Tests 
 
 ## YAML config 
 
